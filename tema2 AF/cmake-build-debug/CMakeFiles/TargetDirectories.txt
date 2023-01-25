@@ -1,0 +1,3 @@
+/Users/tiberiutitiriga/Desktop/tema2 AF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tiberiutitiriga/Desktop/tema2 AF/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tiberiutitiriga/Desktop/tema2 AF/cmake-build-debug/CMakeFiles/tema2_AF.dir
